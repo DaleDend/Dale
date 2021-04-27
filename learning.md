@@ -2,11 +2,11 @@
 
 #### H4的标题
 
-[超链接](http://www.bilibili.com/)
+[超链接到b站](http://www.bilibili.com/)
 
-go to README→[here](./README.md)
+[查看Readme](./README.md)
 
-see picture→[here](./1.png)
+[查看图片](./1.png)
 
 ![github](https://github.com/DaleDend/Dale/blob/main/1.png)
 
@@ -24,19 +24,20 @@ int mian()
 ><br>
 >但愿人长久<br>
 >千里共婵娟
-<br>
+
 * 人工智能
 * 大数据
-<br>
+
 1. 吃饭
 2. 睡觉 
 3. 学习 
 4. 玩手机 
-<br>
+
+
 * 第一级 
     * 第二级  
         * 第三级 
-<br>
+
 |姓名|学号|年龄|
 -:|:-:|:-
 |邓傲|21181231|20|
