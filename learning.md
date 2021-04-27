@@ -2,13 +2,13 @@
 
 #### hello wold
 
-[百度](http://www.baidu.com/)
+[超链接](http://www.bilibili.com/)
 
 see README→[here](./README.md)
 
 see picture→[here](./01.png)
 
-![github](https://github.com//main/01.png)
+![github](https://github.com/DaleDend/Dale/blob/main/1.png)
 
 ```c++
 #include <iostream>
@@ -22,7 +22,7 @@ int mian()
 
 >块引用<br>
 ><br>
->但愿人长久
+>但愿人长久<br>
 >千里共婵娟
 
 * 人工智能
